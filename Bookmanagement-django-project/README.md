@@ -1,1 +1,0 @@
-# Bookmanagement-django-project
